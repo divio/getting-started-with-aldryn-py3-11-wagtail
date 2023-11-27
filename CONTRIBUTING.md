@@ -18,7 +18,11 @@ or
 Please make pull requests:
 
 * from an appropriately-named new branch
+<<<<<<< Updated upstream
 * to the ``master`` branch
+=======
+* to the ``main`` branch
+>>>>>>> Stashed changes
 
 See:
 
